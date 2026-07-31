@@ -396,6 +396,10 @@ nav ul li a:hover {
  width: 25px;
 }
 
+.fab fa-whatsapp {
+ color: #25D366;
+ }
+
 .contact-details a {
  color: var(--text-primary);
  font-weight: 400;
