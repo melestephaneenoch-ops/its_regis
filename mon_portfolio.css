@@ -261,10 +261,10 @@ nav ul li a:hover {
  transform: translateY(-5px);
  box-shadow: 0 8px 20px rgba(0,0,0,0.6);
  transform: translateY(-5px); /*Léger soulèvement*/
-  box-shadow: 0 0 20px rgba(0, 188, 212, 0.8), /* Lueur principale */
- 0 0 30px rgba(0, 188, 212, 0.6), /*Lueur plus large */
- 0 0 40px rgba(0, 188, 212, 0.4); /*Lueur encore plus large */
-  border-color: rgba(0, 188, 212, 0.8); /* Optionnel: ajoute une bordure colorée */
+  box-shadow: 0 0 20px blue, /* Lueur principale */
+ 0 0 30px blue, /*Lueur plus large */
+ 0 0 40px blue; /*Lueur encore plus large */
+  border-color: blue; /* Optionnel: ajoute une bordure colorée */
 }
 
 .skill-item i {
